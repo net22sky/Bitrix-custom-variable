@@ -51,6 +51,9 @@
          * @param $arParams
          *
          * @return mixed
+         * 
+         * TODO: 
+         * 
          */
         public function onPrepareComponentParams($arParams)
         {
